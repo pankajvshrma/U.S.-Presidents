@@ -10,6 +10,6 @@ corpus of 622 key U.S. presidential speeches .
 The results of the topic modeling analysis of the presidential speeches
 suggest that the technique accurately identified latent themes or dis-
 courses across different presidential speeches over time. The results also
-suggest that it is an eective tool for producing new insights into the
+suggest that it is an effective tool for producing new insights into the
 history of presidential speeches, including nding similarities between
 speeches that otherwise might not be apparent.
